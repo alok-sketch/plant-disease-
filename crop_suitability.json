@@ -1,0 +1,77 @@
+[
+    {
+        "type": "Black Cotton Soil",
+        "suitable_crops": [
+            "Cotton",
+            "Wheat",
+            "Sugarcane",
+            "Jowar",
+            "Pulses"
+        ],
+        "characteristics": {
+            "water_retention": "High",
+            "fertility": "High",
+            "drainage": "Poor"
+        }
+    },
+    {
+        "type": "Red Soil",
+        "suitable_crops": [
+            "Groundnut",
+            "Potato",
+            "Millets",
+            "Rice",
+            "Tobacco"
+        ],
+        "characteristics": {
+            "water_retention": "Medium",
+            "fertility": "Medium",
+            "drainage": "Good"
+        }
+    },
+    {
+        "type": "Alluvial Soil",
+        "suitable_crops": [
+            "Rice",
+            "Wheat",
+            "Sugarcane",
+            "Vegetables",
+            "Fruits"
+        ],
+        "characteristics": {
+            "water_retention": "Good",
+            "fertility": "High",
+            "drainage": "Good"
+        }
+    },
+    {
+        "type": "Laterite Soil",
+        "suitable_crops": [
+            "Cashew",
+            "Tea",
+            "Coffee",
+            "Rubber",
+            "Coconut"
+        ],
+        "characteristics": {
+            "water_retention": "Low",
+            "fertility": "Low",
+            "drainage": "Excellent"
+        }
+    },
+    {
+        "type": "Desert Soil",
+        "suitable_crops": [
+            "Pearl Millet",
+            "Cluster Bean",
+            "Sesame",
+            "Mustard",
+            "Dates"
+        ],
+        "characteristics": {
+            "water_retention": "Very Low",
+            "fertility": "Low",
+            "drainage": "Excessive"
+        }
+    }
+]
